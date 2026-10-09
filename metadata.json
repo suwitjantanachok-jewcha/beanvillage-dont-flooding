@@ -1,0 +1,6 @@
+{
+  "name": "หมู่บ้านแห่งถั่ว - ล่า 9,000 บาท",
+  "description": "เกมส์ 2D ตลก เอาชีวิตรอดน้ำท่วมและผจญภัยล่าเงินเยียวยา 9,000 บาท",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
